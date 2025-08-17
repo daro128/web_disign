@@ -1,0 +1,15 @@
+ol{
+
+    list-style-position: inside;
+}
+img{
+    width: 30%;
+}
+h1{
+    text-align: center;
+}
+ol{
+            display: grid;
+            grid-template-columns: 2fr 2fr ;
+            gap: 50px; /* space between columns */
+}
